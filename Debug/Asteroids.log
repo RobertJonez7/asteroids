@@ -1,0 +1,72 @@
+﻿  bullet.cpp
+C:\Users\Robert\source\repos\Asteroids\Asteroids\bullet.cpp(13,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\bullet.cpp(14,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  driver.cpp
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(22,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(24,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(25,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(55,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(56,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(74,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(75,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(93,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(94,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\powerup.h(11,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\powerup.h(11,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  flyingObject.cpp
+C:\Users\Robert\source\repos\Asteroids\Asteroids\flyingObject.cpp(82,9): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\flyingObject.cpp(87,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  game.cpp
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(22,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(24,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(25,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(55,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(56,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(74,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(75,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(93,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(94,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\powerup.h(11,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\powerup.h(11,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(79,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(288,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(292,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(344,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(367,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(395,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(469,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Robert\source\repos\Asteroids\Asteroids\game.cpp(477,21): warning C4018: '<': signed/unsigned mismatch
+  point.cpp
+  powerup.cpp
+C:\Users\Robert\source\repos\Asteroids\Asteroids\powerup.h(11,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\powerup.h(11,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  rocks.cpp
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(22,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(24,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(25,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(55,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(56,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(74,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(75,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(93,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\rocks.h(94,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ship.cpp
+C:\Users\Robert\source\repos\Asteroids\Asteroids\ship.cpp(12,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\ship.cpp(28,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\ship.cpp(29,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  uiDraw.cpp
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(183,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(184,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(459,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(458,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(532,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(533,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(541,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(542,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(587,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Robert\source\repos\Asteroids\Asteroids\uiDraw.cpp(590,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  uiInteract.cpp
+  velocity.cpp
+  Generating Code...
+  Asteroids.vcxproj -> C:\Users\Robert\source\repos\Asteroids\Debug\Asteroids.exe
